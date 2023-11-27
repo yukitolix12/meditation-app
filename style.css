@@ -48,3 +48,8 @@ body {
     left: 0;
     border-radius: 50%;
 }
+
+.outer-circle {
+    height: 320px;
+    width: 320px;
+}
