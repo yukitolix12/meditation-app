@@ -71,7 +71,7 @@ body {
 .pointer-container {
     width: 20px;
     height: 190px;
-    background-color: brown;
+    /* background-color: brown; */
     position: absolute;
     top: -40px;
     left: 140opx;
