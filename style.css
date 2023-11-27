@@ -75,6 +75,7 @@ body {
     position: absolute;
     top: -40px;
     left: 140opx;
+    transform-origin: bottom center; 
     animation: rotate 7500ms linear forwards infinite;
 }
 
