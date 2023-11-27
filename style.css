@@ -60,4 +60,9 @@ body {
     #2c237e 60%,
     #372379 100%
   );
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  border-radius: 50%;
+  z-index: -2;
 }
