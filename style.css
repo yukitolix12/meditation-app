@@ -75,4 +75,5 @@ body {
     position: absolute;
     top: -40px;
     left: 140opx;
+    animation: rotate 7500ms linear forwards infinite;
 }
