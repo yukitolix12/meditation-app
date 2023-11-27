@@ -38,3 +38,13 @@ body {
 #text {
     font-size: 1.3rem;
 }
+
+.circle {
+    height: 100%;
+    width: 100%;
+    background-color: #010f1c;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50%;
+}
