@@ -34,3 +34,7 @@ body {
 .h1 {
     transform: translateY(150px);
 }
+
+#text {
+    font-size: 1.3rem;
+}
