@@ -52,4 +52,11 @@ body {
 .outer-circle {
     height: 320px;
     width: 320px;
+    background: conic-gradient(
+    #556cb7 0%,
+    #4c59a4 40%,
+    #fff 40%,
+    #fff 60%,
+    #2c237e 60%,
+    #372379 100%
 }
