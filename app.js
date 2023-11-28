@@ -6,5 +6,7 @@ let breatheTime = (totalTime / 5) * 2;
 let holdTime = totalTime / 5;
 
 function meditateAnimation() {
-    
+    setTimeout(() => {
+
+    }, timeout);
 }
