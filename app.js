@@ -7,6 +7,6 @@ let holdTime = totalTime / 5;
 
 function meditateAnimation() {
     setTimeout(() => {
-
+        text.innerHTML = "止めて！";
     }, breatheTime);
 }
