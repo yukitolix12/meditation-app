@@ -90,6 +90,11 @@ body {
     animation: grow 3s linear forwards;
 }
 
+.container.grow {
+    animation: grow 3s linear forwards;
+}
+
+
 @keyframes rotate {
     0% {
         transform: rotate(0deg);
