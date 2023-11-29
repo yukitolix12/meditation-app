@@ -99,7 +99,7 @@ body {
     }
 }
 
-@keyframes rotate {
+@keyframes grow {
     0% {
         transform: rotate(0deg);
     }
