@@ -9,6 +9,7 @@ meditateAnimation();
 
 function meditateAnimation() {
     text.innerHTML = "吸って！";
+    container.className = "container grow";
     setTimeout(() => {
         text.innerHTML = "止めて！";
 
