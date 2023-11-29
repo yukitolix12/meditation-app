@@ -90,8 +90,8 @@ body {
     animation: grow 3s linear forwards;
 }
 
-.container.grow {
-    animation: grow 3s linear forwards;
+.container.shrink {
+    animation: shrink 3s linear forwards;
 }
 
 
