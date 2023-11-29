@@ -12,8 +12,6 @@ function meditateAnimation() {
     setTimeout(() => {
         text.innerHTML = "止めて！";
 
-        setTimeout(() => {
-
-        }, timeout);
+        setTimeout(() => {}, holdTime);
     },   breatheTime);
 }
