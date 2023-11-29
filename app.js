@@ -19,3 +19,5 @@ function meditateAnimation() {
         }, holdTime);
     },   breatheTime);
 }
+
+setInterval(meditateAnimation, totalTime);
