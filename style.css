@@ -113,11 +113,11 @@ body {
     }
 }
 
-@keyframes grow {
+@keyframes shrink {
     0% {
-        transform: scale(1);
+        transform: scale(1.2);
     }
     100% {
-        transform: scale(1.2);
+        transform: scale(1);
     }
 }
