@@ -112,3 +112,12 @@ body {
         transform: scale(1.2);
     }
 }
+
+@keyframes grow {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(1.2);
+    }
+}
