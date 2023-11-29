@@ -15,6 +15,7 @@ function meditateAnimation() {
 
         setTimeout(() => {
             text.innerHTML = "吐いて!";
+            container.className = "container shrink";
         }, holdTime);
     },   breatheTime);
 }
